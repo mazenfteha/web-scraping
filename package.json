@@ -1,0 +1,23 @@
+{
+  "name": "web-scraping",
+  "version": "1.0.0",
+  "description": "learn web scraping by practice",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mazenfteha/web-scraping.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mazenfteha/web-scraping/issues"
+  },
+  "homepage": "https://github.com/mazenfteha/web-scraping#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "request-promise": "^4.2.6"
+  }
+}
